@@ -1,0 +1,8 @@
+package constants
+
+const (
+	COLLECTIONCONTENTCOMMENT    = "contentComment"
+	CONTENTCOMMENTSTATUSACTIVE  = "Active"
+	CONTENTCOMMENTSTATUSDISABLE = "Disabled"
+	CONTENTCOMMENTSTATUSDELETED = "Deleted"
+)

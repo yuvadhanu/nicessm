@@ -1,0 +1,6 @@
+package constants
+
+//Cache constants
+const (
+	CACHEDASHBOARDDEMANDOVERVIEW = "KOCHAS_CACHEDASHBOARDDEMANDOVERVIEW"
+)

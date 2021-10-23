@@ -1,0 +1,8 @@
+package constants
+
+//STATELIVESTOCK Constants
+const (
+	STATELIVESTOCKSTATUSACTIVE   = "Active"
+	STATELIVESTOCKSTATUSDISABLED = "Disabled"
+	STATELIVESTOCKSTATUSDELETED  = "Deleted"
+)
