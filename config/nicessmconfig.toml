@@ -1,0 +1,52 @@
+
+[development]
+database_name="ccknia"
+mongodb_url="mongodb://localhost:27018,localhost:27019,localhost:27020/?replicaSet=rsSample"
+SMS_URL = "http://sms.logikoof.com/api/mt/SendSMS"
+SMS_USERNAME="logikoof"
+SMS_PASSWORD="logikoof"
+SMS_SENDER_ID="LOGIKF"
+SMS_CHANNEL="Trans"
+SMS_DCS=0
+SMS_FLASH=0
+SMS_ROUTE="1"
+EMAIL_FROM="bpmsdevelopment@gmail.com" 
+EMAIL_FROM_PASSWORD="#nature32"
+EMAIL_SMTPHOST="smtp.gmail.com"
+EMAIL_SMTPPORT="587"
+BASE_URL="http://stage.municipal.com"
+API_BASE_URL=" http://apistage.municipal.com"
+LOGIN_URL="/#/login"
+CONTACTUS_URL="/#/contact"
+FILE_URL = "C:/solo/repos/silaostage/files/documents/"
+FILE_URL_D = "documents/"
+TEMPLATE_URL = "C:/solo/repos/silaostage/files/templates/"
+LOCATION_NAME = "Silao Nagar Panchayat"
+UI_URL = "UI_URL"
+
+
+
+[test]
+database_name="ccknia"
+mongodb_url="mongodb://localhost:27018,localhost:27019,localhost:27020/?replicaSet=rsSample"
+SMS_URL = "http://sms.logikoof.com/api/mt/SendSMS"
+SMS_USERNAME="logikoof"
+SMS_PASSWORD="logikoof"
+SMS_SENDER_ID="LOGIKF"
+SMS_CHANNEL="Trans"
+SMS_DCS=0
+SMS_FLASH=0
+SMS_ROUTE="1"
+EMAIL_FROM="bpmsdevelopment@gmail.com" 
+EMAIL_FROM_PASSWORD="#nature32"
+EMAIL_SMTPHOST="smtp.gmail.com"
+EMAIL_SMTPPORT="587"
+BASE_URL="http://stage.municipal.com"
+API_BASE_URL=" http://apistage.municipal.com"
+LOGIN_URL="/#/login"
+CONTACTUS_URL="/#/contact"
+FILE_URL = "C:/solo/repos/silaostage/files/documents/"
+FILE_URL_D = "documents/"
+TEMPLATE_URL = "C:/solo/repos/silaostage/files/templates/"
+LOCATION_NAME = "Silao Nagar Panchayat"
+UI_URL = "C:/solo/repos/nicessm/dist/"
